@@ -1,8 +1,8 @@
 {
-  "name": "knot-php-/module-knot-pipeline",
+  "name": "knot-php/module-knot-pipeline",
   "description": "knot-lib/pipeline installer",
   "keywords": ["PHP","Module","Pipeline","Installer","kNot Framework"],
-  "homepage": "https://github.com/knot-php-/module-knot-pipeline",
+  "homepage": "https://github.com/knot-php/module-knot-pipeline",
   "type": "library",
   "license": "MIT",
   "authors": [
